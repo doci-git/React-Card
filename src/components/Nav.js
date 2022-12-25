@@ -1,7 +1,7 @@
 
 
 import React from "react";
-const Header = () => {
+const Nav = () => {
    return (
       <nav>
          <img src="./images/logo-airbnb.png" alt=""></img>
@@ -9,4 +9,4 @@ const Header = () => {
       </nav>
    );
 };
-export default Header;
+export default Nav;
